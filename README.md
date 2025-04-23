@@ -15,7 +15,7 @@ This project is a Python-based Tic-Tac-Toe bot that uses computer vision and the
 
 - This current form only works on **googles tic tac toe game** however can be used on other tic tac toe games provided that you switch out the templates for their equivalents
 
-> https://www.google.com/search?q=tictac+toe&sca_esv=cc91aa7b516a412e&source=hp&ei=uCMIaIyUJarYkPIPq4_ayQk&iflsig=ACkRmUkAAAAAaAgxyLqr24LaXR8GA6UzEm9h6Yb_YARP&ved=0ahUKEwiM0L6Y4-yMAxUqLEQIHauHNpkQ4dUDCA8&uact=5&oq=tictac+toe&gs_lp=Egdnd3Mtd2l6GgIYAyIKdGljdGFjIHRvZTIHEAAYgAQYCjIHEAAYgAQYCjIHEC4YgAQYCjIHEAAYgAQYCjIKEAAYgAQYChiLAzIKEAAYgAQYChiLAzIKEAAYgAQYChiLAzIKEAAYgAQYChiLAzIKEAAYgAQYChiLAzIQEC4YgAQYqAMYmQMYChiLA0ijDlAAWPUMcAB4AJABAJgBngGgAY8JqgEDMi44uAEDyAEA-AEBmAIKoAK-CcICBRAAGIAEwgILEC4YgAQY0QMYxwHCAhEQLhiABBiYAxioAxiaAxiLA8ICDhAuGIAEGKgDGIsDGJsDwgIIEAAYgAQYiwPCAg4QLhiABBjRAxjHARjJA8ICDhAAGIAEGJIDGIoFGIsDwgIUEC4YgAQYpgMYxwEYqAMYiwMYrwHCAg4QLhiABBioAxiLAxieA8ICChAuGIAEGNQCGArCAgsQLhiABBjHARivAZgDAJIHBDAuMTCgB5xusgcEMC4xMLgHvgk&sclient=gws-wiz&sei=uyMIaOSZJ_HGkPIPvc7hwQM
+> https://www.google.com/search?q=tic+tac+toe&sca_esv=cc91aa7b516a412e&ei=E00IaPXwOabdkPIPtu2l8Qg&ved=0ahUKEwi1xvbQiu2MAxWmLkQIHbZ2KY4Q4dUDCBI&uact=5&oq=tic+tac+toe&gs_lp=Egxnd3Mtd2l6LXNlcnAaAhgCIgt0aWMgdGFjIHRvZTIEEAAYRzIEEAAYRzIEEAAYRzIEEAAYRzIEEAAYRzIEEAAYRzIEEAAYRzIEEAAYR0irDlCsBVisBXACeAKQAQCYAQCgAQCqAQC4AQPIAQD4AQGYAgOgAgrCAgoQABiwAxjWBBhHwgINEAAYgAQYsAMYQxiKBcICEBAAGIAEGLADGEMYigUYiwOYAwDiAwUSATEgQIgGAZAGCJIHATOgBwCyBwExuAcC&sclient=gws-wiz-serp
 
 - You **must** allow the program to both view your screen and move your mouse or else it cant work
 - This program is Janky on purpose as its intended as an educational resource for debugging, it is not intended to be an entirely finished product
