@@ -1,11 +1,3 @@
-==================================================
- ___    __     ___       __      __   __  ___
-  |  | /  `     |   /\  /  `    |__) /  \  | 
-  |  | \__,     |  /~~\ \__,    |__) \__/  | 
-==================================================
- NagusameCS
-==================================================
-
 # Tic-Tac-Toe Bot
 
 This project is a Python-based Tic-Tac-Toe bot that uses computer vision and the Minimax algorithm to play the game autonomously. The bot can detect the game board, evaluate the current state, and make optimal moves while accounting for the opponent's strategy.
