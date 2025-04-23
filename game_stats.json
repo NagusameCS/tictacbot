@@ -1,0 +1,23 @@
+{
+    "games": [
+        {
+            "initial_setup": null,
+            "moves": [],
+            "result": "X"
+        },
+        {
+            "initial_setup": null,
+            "moves": [],
+            "result": "X"
+        },
+        {
+            "initial_setup": null,
+            "moves": [],
+            "result": "X"
+        }
+    ],
+    "wins": 0,
+    "losses": 109,
+    "draws": 153,
+    "moves_played": 1314
+}
